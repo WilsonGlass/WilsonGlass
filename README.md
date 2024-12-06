@@ -1,5 +1,5 @@
-- My name is Wilson Glass and I am currently persuing a degree at Northeastern University in Computer Science and Mathematics
-- Entry Level Software Engineer @ GALT Aero
+- My name is Wilson Glass and I am currently pursuing a degree at Northeastern University in Computer Science and Mathematics
+- Software Engineering Intern @ Nasdaq
 - Interested in AI, Machine Learning, and automation
 - [LinkedIn](https://www.linkedin.com/in/wilson-glass-144772223/)
 - wilsonglass503@gmail.com
