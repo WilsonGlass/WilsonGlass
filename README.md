@@ -1,5 +1,3 @@
-- My name is Wilson Glass and I am currently pursuing a degree at Northeastern University in Computer Science and Mathematics
-- SWE Intern @ Nasdaq
 - Interested in AI, Machine Learning, and automation
 - [LinkedIn](https://www.linkedin.com/in/wilson-glass-144772223/)
 - wilsonglass503@gmail.com
